@@ -28,6 +28,10 @@ img {
   outline: 0;
 }
 
+#html5-watermark {
+  display: none !important;
+}
+
 .header {
   background-color: #6c1b26;
   text-align: center;
